@@ -1,0 +1,182 @@
+header{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+
+    
+   display: flex;
+   justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+
+
+}
+
+.imglogo {
+    margin-left: 3rem;
+}
+
+.Listadearriba {
+    display: flex;
+    align-items: center;
+   margin-left: 3rem;
+}
+
+
+.Listadearriba a{
+    font-size: 18px;
+    padding: 24px;
+    color: black;
+    display: block;
+    font-weight: 400;
+    text-decoration: none;
+    margin-left: 3rem;
+
+}
+
+.Busqueda {
+    padding: 3px;
+    margin-right: 3rem;
+}
+
+.Seccion1-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(3,1fr);
+}
+
+.Señorarojo {
+ 
+    
+    
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 7;
+    display: flex;
+    justify-content: end;
+    height: 30rem;
+
+}
+
+.Master{
+    font-size: 4rem;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+
+p{
+    padding-top: 1rem;
+    font-size: 1rem;
+}
+
+.Parrafo {
+    gap: 0.6rem;
+}
+
+.Izquierda{
+  display: flex;
+  align-items: center;  
+}
+
+
+.botones{
+    display: flex;
+    align-items: center;
+}
+
+.Best{
+    display: flex;
+    padding: 4rem;
+    justify-content: center;
+
+}
+
+.Terceroo{
+    text-align: center;
+}
+
+
+
+
+
+.dos2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(1,1fr);
+}
+
+.boton2 {
+    display: flex;
+  align-items: center;  
+}
+
+.dosdos {
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+.masmenos {
+    text-align: center;
+}
+
+
+
+
+
+.OurClass1 {
+    text-align: center;
+    
+}
+
+.Signos {
+    width: 1rem;
+}
+
+
+
+.Selling{
+    display: flex;
+    justify-content: center;
+
+}
+.AzulAmarillo {
+  gap: 10px;
+}
+
+.Perfileslaing {
+    text-align: center;
+    
+}
+
+.Viewall {
+    text-align: center;
+}
+
+.Fuscia {
+    padding: 0px;
+}
+
+.Students {
+    display: flex;
+    padding: 4rem;
+    justify-content: center;
+
+}
+
+.Selling  {
+display: flex;
+padding: 4rem;
+justify-content: center;
+}
+
+.Sims {
+    text-align: center;
+}
+
+
+
+
+
